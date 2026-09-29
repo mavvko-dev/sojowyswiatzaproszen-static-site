@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://sojowyswiatzaproszen.pl/</loc>
-  </url>
+  <url><loc>https://sojowyswiatzaproszen.pl/</loc></url>
+  <url><loc>https://sojowyswiatzaproszen.pl/pages/zaproszenia-podkategorie.html</loc></url>
+  <url><loc>https://sojowyswiatzaproszen.pl/pages/winietki.html</loc></url>
+  <url><loc>https://sojowyswiatzaproszen.pl/pages/swiece.html</loc></url>
+  <url><loc>https://sojowyswiatzaproszen.pl/pages/gry-imprezowe.html</loc></url>
+  <url><loc>https://sojowyswiatzaproszen.pl/pages/zawieszki.html</loc></url>
+  <url><loc>https://sojowyswiatzaproszen.pl/pages/karty-wspomnien.html</loc></url>
+  <url><loc>https://sojowyswiatzaproszen.pl/pages/zaproszenia-chrzest.html</loc></url>
+  <url><loc>https://sojowyswiatzaproszen.pl/pages/zaproszenia-komunia.html</loc></url>
+  <url><loc>https://sojowyswiatzaproszen.pl/pages/zaproszenia-slub.html</loc></url>
+  <url><loc>https://sojowyswiatzaproszen.pl/pages/zaproszenia-urodziny-i-rocznice.html</loc></url>
 </urlset>
